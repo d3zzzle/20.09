@@ -1,0 +1,21 @@
+# include <stdio.h>
+# include <math.h>
+// 1 5 9 14 16 22 25 39
+int main()
+{
+	int a, b, c;
+	a = 1;
+	b = 13;
+	c = 49;
+
+	printf("%d\t", a); 
+	printf("%d\t", b);
+	printf("%d\t", c);
+
+
+
+
+	return 0;
+
+
+}
